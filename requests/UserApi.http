@@ -1,0 +1,15 @@
+
+###
+POST http://localhost:4000/new-user
+Content-Type: application/json
+
+{
+    "username": "Hemanth",
+    "dob":"8/10/2004",
+    "email":"hemantht1234@gmail.com",
+    "phoneno":8019762100,
+    "Education":"BTech",
+    "Branch":"CSE",
+    "Hobbies":"Listening Music, Explorig new things, Intrested in Research"
+}
+
